@@ -1,34 +1,67 @@
 # AI Voice Receptionist
-**Inbound calls · Lead capture · Appointment support · Human handoff**  
-**Kenniz | KZ Automation**
+**A professional first response for incoming calls**  
+Kenniz | KZ Automation
 
-## The business need
-When a team is busy, incoming enquiries can go unanswered and appointment requests can be lost. An AI receptionist helps provide a consistent first response while keeping staff involved where their judgment is needed.
+**[Discuss your receptionist project on Upwork](https://www.upwork.com/freelancers/kenniz)** · [Client references](https://github.com/kennizautomation/kennizautomation/blob/main/CLIENT-REFERENCES.md)
 
-## Solution overview
-A conversational receptionist that welcomes callers, handles approved business questions, captures their needs, and helps them reach the right next step.
+## The business challenge
+Staff cannot always answer a call while serving another customer. A missed call can leave an enquiry unresolved, while repeated questions and manual appointment coordination take time away from the team.
 
-| Customer experience | Business value |
-| --- | --- |
-| A clear, natural greeting | A consistent first impression |
-| Relevant answers to common questions | Less repetitive work for the team |
-| Structured lead capture | Better context for follow-up |
-| Appointment assistance | A simpler path from enquiry to a meeting |
-| Human escalation | Complex requests reach the appropriate person |
+An AI receptionist can support a consistent first response and help callers reach the appropriate next step.
 
-## My contribution
-This showcase presents my approach to conversation design, voice-platform integration, CRM coordination, scheduling, and reliable handoff behavior.
+## The customer experience
+A caller is welcomed, explains the reason for the call, receives information the business has approved, and gets help with an enquiry or appointment. When a request needs a person, the experience should make that handoff clear.
 
-## Technology expertise
-Retell AI · Vapi · n8n · CRM and calendar integrations. The exact combination is selected for each engagement.
+The goal is useful assistance that represents the business accurately—not an agent that guesses answers or promises actions it cannot complete.
+
+## Capabilities we can scope
+| Area | Customer-facing behavior | Business purpose |
+| --- | --- | --- |
+| Call reception | Natural greeting and reason-for-call handling | Consistent first impression |
+| Business information | Answers to approved common questions | Reduce repeated staff explanations |
+| Lead intake | Relevant details gathered conversationally | Provide useful follow-up context |
+| Appointments | Help with availability and booking | Make the next step easier |
+| Existing bookings | Supported changes within agreed permissions | Reduce administrative handling |
+| Human escalation | Transfer or follow-up where appropriate | Keep people involved in complex requests |
+| CRM coordination | Relevant call information recorded | Improve continuity across the team |
+| Notifications | Appropriate updates to staff or customers | Make next actions visible |
+
+Final functionality depends on the selected platforms, permissions, and engagement scope.
+
+## What I contribute
+**Conversation design:** Tone, turn-taking, necessary information, and clear boundaries for the assistant.
+
+**Platform integration:** Coordination between the voice platform, calendar, CRM, and supporting automation.
+
+**Exception handling:** A defined experience for missing information, unavailable appointments, and requests that need staff attention.
+
+**Client handover:** A walkthrough and agreed operational documentation delivered privately.
+
+## Technology options
+Vapi or Retell AI can support the voice experience, with n8n or Make.com connecting business tools where appropriate. Calendar and CRM choices follow the client's existing accounts and requirements.
+
+Examples of relevant platforms include GoHighLevel, HubSpot, Google Calendar, Cal.com, Twilio, and Telnyx. This is a selection of options, not a statement that all are configured in a single deployment.
+
+## Useful for
+Appointment-led service businesses, clinics and studios with approved information boundaries, home-service teams, property-service businesses, and other organizations managing regular inbound enquiries. The requirements and escalation rules are adapted to each business.
+
+## What we would review before launch
+- Whether callers understand the assistant and can explain their needs.
+- Whether answers stay within approved business information.
+- Whether booking confirmations match actual outcomes.
+- Whether difficult or unsupported requests reach a person.
+- Whether staff receive the information they need.
+- Whether the team understands how the delivered setup is managed.
+
+These are client acceptance areas, not public implementation instructions.
 
 ## Portfolio status
-Solution showcase illustrating the service scope. It is not presented as a verified client deployment or a claim of measured results.
+This is a detailed solution showcase, not a claim of a specific verified deployment or measured outcome. No project-specific screenshots are attached to this page. For supplied configuration evidence, see the separate [outbound calling case study](https://github.com/kennizautomation/ai-outbound-calling-agent).
 
-## Engagement scope
-Business requirements, conversation design, integrations, scenario testing, and client handover are agreed for each project. Implementation materials are supplied privately within the contracted scope.
+A relevant public offering is listed on [Upwork](https://www.upwork.com/services/product/development-it-twilio-bulk-sms-phone-voice-ivr-whatsapp-api-setup-for-mass-dm-automation-1757850715725418496). A service listing is not a completed-job record.
 
-## Working together
-Share your business process, preferred tools, and desired customer experience through the professional channel where you found this portfolio.
+## Start with your business
+Tell me your services, existing phone setup, CRM/calendar, operating hours, and the kinds of calls your team receives.
 
-[View Kenniz's profile](https://github.com/kennizautomation) · [Portfolio content notice](COPYRIGHT.md)
+**[Message Kenniz on Upwork](https://www.upwork.com/freelancers/kenniz)**  
+[Delivery stages](https://github.com/kennizautomation/kennizautomation/blob/main/WORKING-TOGETHER.md) · [Portfolio](https://github.com/kennizautomation) · [Content notice](COPYRIGHT.md)
